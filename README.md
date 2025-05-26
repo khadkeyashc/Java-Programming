@@ -26,13 +26,3 @@ Each `DemoX.java` file covers different concepts in Java. Here's an overview of 
 3. Make sure the project is recognized as a Java project (using the `.project` file).
 4. Run any `DemoX.java` file to see the output of the specific assignment.
 
-## Requirements
-
-- Java JDK 8 or later
-- Eclipse IDE or any compatible Java IDE
-
-## License
-
-This project is for educational purposes and does not carry a specific license. Use it freely for learning or teaching.
-
-Feel free to reach out if you have questions or suggestions!
