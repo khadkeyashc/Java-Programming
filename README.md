@@ -32,7 +32,4 @@ Each `DemoX.java` file covers different concepts in Java. Here's an overview of 
 - Eclipse IDE or any compatible Java IDE
 
 
-## License
 
-This project is for educational purposes and does not carry a specific license. Use it freely for learning or teaching.
-Feel free to reach out if you have questions or suggestions!
