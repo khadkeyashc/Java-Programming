@@ -29,11 +29,9 @@ This repository contains a series of Java assignments and demonstration programs
 | 📐 Geometry Logic | `Shape`, `Rectangle`, `Circle` classes |
 | 🐶 Inheritance Practice | Animal class hierarchy & method overriding |
 
-### 📸 Snapshots
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="45%" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30%" />
 </p>
 
 ### 🛠️ How to Use
