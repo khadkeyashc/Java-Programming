@@ -10,12 +10,14 @@ This repository contains a series of Java assignments and demonstration programs
   <img src="https://img.shields.io/badge/Projects-15+-brightgreen?style=for-the-badge" />
 </p>
 
+```
 📁 Java-Programming/
-├── 📁 src/ → Source files (Demo1.java to Demo15.java)
-├── 📁 bin/ → Compiled .class files (Eclipse auto-generated)
-├── 📁 .settings/ → Eclipse-specific settings
+├── 📁 src/            → Source files 
+├── 📁 bin/            → Compiled .class files (Eclipse auto-generated)
+├── 📁 .settings/      → Eclipse-specific settings
 ├── .classpath
 └── .project
+```
 
 ### 🚀 What You'll Learn
 
