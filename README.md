@@ -32,6 +32,7 @@ This repository contains a series of Java assignments and demonstration programs
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="45%" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="25%" />
 </p>
 
 ### 🛠️ How to Use
