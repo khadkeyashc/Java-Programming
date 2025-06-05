@@ -1,6 +1,15 @@
 # Java-Programming
 This repository contains a series of Java assignments and demonstration programs developed using Eclipse IDE. The goal of these assignments is to practice and demonstrate core Java concepts including object-oriented programming, multithreading, interfaces, and basic GUI/event handling.
 
+<h1 align="center">💻 Java Programming Portfolio</h1>
+<h3 align="center">Hands-on Projects Demonstrating Core Java Concepts</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/IDE-Eclipse-blue?style=for-the-badge&logo=eclipse-ide" />
+  <img src="https://img.shields.io/badge/Projects-15+-brightgreen?style=for-the-badge" />
+</p>
+
 ## Project Structure
 
 - `src/` - Contains the source code files named `Demo1.java` to `Demo15.java`.
