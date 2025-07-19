@@ -49,9 +49,7 @@ File → Import → Existing Projects into Workspace
 Choose a DemoX.java and hit Run (green play button)
 
 
-📋 Requirements
-Java JDK 8 or higher
-Eclipse IDE (or IntelliJ/VS Code with Java Extension Pack)
+
 
 📬 Contact Me
 <p align="left"> <a href="mailto:khadkeyash88@gmail.com"><img src="https://img.shields.io/badge/Gmail-khadkeyash88@gmail.com-red?style=flat&logo=gmail"></a><br> <a href="https://www.linkedin.com/in/yash-khadke-87394a227/"><img src="https://img.shields.io/badge/LinkedIn-Yash%20Khadke-blue?style=flat&logo=linkedin"></a><br> <a href="https://github.com/khadkeyashc"><img src="https://img.shields.io/badge/GitHub-khadkeyashc-black?style=flat&logo=github"></a> </p>
